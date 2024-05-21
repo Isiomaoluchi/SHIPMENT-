@@ -1,6 +1,6 @@
 ## Project Overview
 This dataset focuses on various ships and the specific reasons they failed to meet their scheduled deadlines.
-It includes detailed information such as ship names, STS prividers, etc.
+It includes detailed information such as ship names, STS providers, etc.
 
 ## Data Source
 This dataset was provided by my instructor specifically for my project. It serves as the foundation for my analysis and research work.
